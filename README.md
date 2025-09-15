@@ -1,1 +1,1 @@
-# D.A.R.T. - Deformation Analysis and Testing
+# D.A.R.T. - Deformation Analysis and Resilience Testing
